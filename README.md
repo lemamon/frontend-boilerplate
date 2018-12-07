@@ -1,6 +1,6 @@
 # frontend-boilerplate
 
-Just a boilerplate to a frontend project (HTML, JS and CSS)
+Just a boilerplate to a frontend project (HTML, CSS and JS)
 
 To execute this project you need install:
 
